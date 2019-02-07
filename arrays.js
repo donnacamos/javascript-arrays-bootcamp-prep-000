@@ -4,10 +4,12 @@ function addElementToBeginningOfArray(){
   
 }
 
-function addElementToBeginningOfArray(){
-  
-}
-
 function destructivelyAddElementToBeginningOfArray(){
   
 }
+
+function addElementToEndOfArray(){
+  
+}
+
+
